@@ -1,6 +1,6 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/AleoTV/PlexPlugins
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/AleoTV/PlexPlugins/LobbyCommands
 build-by-default: true
 branches:
 - master
-projects: []
+projects: LobbyCommands
 ...
