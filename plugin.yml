@@ -1,1 +1,5 @@
+name: LobbyCommands
+version: 1.0
+api: [3.0.0,4.0.0]
+author: AleoTV
 
